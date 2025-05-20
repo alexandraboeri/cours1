@@ -24,7 +24,7 @@ h1{
   color:  #41A3C0; 
   font-weight: bolder;
   font-size: 2em;
-
+ }
 
 h2 {
   font-family: 'Regular 400'
@@ -72,4 +72,7 @@ a:hover {
   font-size: 30px;
   font-weight: lighter;
   text-decoration: none;
+}
+.licorne {
+  width: 900px;
 }
